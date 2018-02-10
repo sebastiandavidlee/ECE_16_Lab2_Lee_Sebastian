@@ -1,0 +1,5 @@
+mean value: 5.0
+standard deviation: 0.0
+maximum value: 5.0
+minimum value: 5.0
+There are 5000 samples

@@ -1,0 +1,4 @@
+mean value: 326259.6
+standard deviation: 47687.71171108968
+maximum value: 430257.0
+minimum value: 240253.0
